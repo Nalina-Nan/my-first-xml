@@ -1,0 +1,12 @@
+<menu>
+  <food>
+    <name> Pizza</name> 
+    <price>$20</price>
+    <calorie>560</calorie>
+  </food>
+  <food>
+    <name> Hotdog</name> 
+    <price>$12</price>
+    <calorie>260</calorie>
+  </food>
+</menu>
